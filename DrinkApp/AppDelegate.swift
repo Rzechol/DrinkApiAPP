@@ -4,7 +4,6 @@
 //
 //  Created by Bartosz Rzechółka on 24/08/2022.
 //
-
 import UIKit
 
 @main
